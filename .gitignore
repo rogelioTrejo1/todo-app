@@ -1,0 +1,11 @@
+# VS code
+.vscode
+
+# Variables de entorno
+.env
+
+# php
+vendor
+
+# nodejs
+node_modules
