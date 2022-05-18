@@ -1,0 +1,1 @@
+CREATE USER 'task-user'@'localhost' IDENTIFIED BY '123456';
